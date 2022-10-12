@@ -1,4 +1,4 @@
-# Java Kata Test
+# SG Java Kata Testz
 # Architecture
 
 This project is implemented in Java using some Clean Architecture principles (entities / use cases / presenters) to garantee a good separation of the logical part and also to have a more organised and testable code. 
